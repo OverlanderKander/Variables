@@ -2,6 +2,9 @@
 public class Variables {
 
 	public static void main(String[] args) {
+
+		//this is the first comment
+		
 		int a = 63;
 		int b = 45;
 		
@@ -23,6 +26,9 @@ public class Variables {
 
 		System.out.println("a is now " + a);
 		System.out.println("b is still " + b);
+		
+		//this is the last comment
+		
 	}
 
 }
